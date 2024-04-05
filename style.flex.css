@@ -1,0 +1,377 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+}
+
+.bg-container-1 {
+  background-color: #ffffff;
+  height: 120vh;
+  width: 100vw;
+}
+
+.icon-item {
+  height: 35px;
+  width: 86.32px;
+  left: 205px;
+  top: 33px;
+}
+
+.nav-items {
+  font-size: 16px;
+  color: #212a34;
+  font-weight: 500;
+  font-family: "Neue Haas Unica";
+  text-align: center;
+}
+
+.nav-button {
+  width: 170px;
+  height: 40px;
+  font-weight: bold;
+  top: 20px;
+  left: 1109px;
+  border-radius: 12px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.Modern-text-element {
+  font-size: 60px;
+  color: #282c3f;
+  font-weight: 900;
+  font-family: "Neue Haas Unica";
+  padding-top: 60px;
+}
+
+.span-element {
+  font-size: 60px;
+  color: rgba(0, 184, 183, 1);
+  font-weight: 900;
+  font-family: "Neue Haas Unica";
+}
+
+.button-1 {
+  background-color: #353843;
+  font-family: Neue Haas Unica;
+  font-size: 16px;
+  font-weight: 900;
+  line-height: 24px;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 10px;
+  width: 161px;
+  height: 60px;
+  margin-right: 15px;
+}
+
+.button-2 {
+  background-color: #11b2a8;
+  font-family: Neue Haas Unica;
+  font-size: 16px;
+  font-weight: 500;
+  border-width: 0px;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 12px;
+  width: 161px;
+  height: 60px;
+}
+
+.image-container {
+  width: 550px;
+  height: 507px;
+  background-color: white;
+}
+
+.image-1 {
+  width: 239px;
+  height: 236px;
+  top: 166px;
+  left: 716px;
+  border-top-left-radius: 100px;
+  margin-top: 20px;
+}
+
+.image-2 {
+  width: 97px;
+  height: 108px;
+  top: 202px;
+  left: 947px;
+  border-radius: 20px;
+  margin: 20px;
+  margin-bottom: 50px;
+}
+
+.image-3 {
+  width: 120px;
+  height: 126px;
+  top: 177px;
+  left: 1057px;
+  border-top-right-radius: 60px;
+  margin-bottom: 105px;
+  margin-top: 20px;
+}
+
+.image-4 {
+  width: 100.11px;
+  height: 100.17px;
+  top: 425.27px;
+  left: 828.08px;
+  border-bottom-left-radius: 40px;
+  margin-left: 140px;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+.image-5 {
+  width: 159.83px;
+  height: 159.92px;
+  top: 307.53px;
+  left: 958.05px;
+  border-top-right-radius: 40px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+
+.image-6 {
+  width: 124.7px;
+  height: 124.77px;
+  top: 563.23px;
+  left: 735px;
+  border-bottom-left-radius: 60px;
+  margin-right: 30px;
+}
+
+.image-7 {
+  width: 165.18px;
+  height: 165.28px;
+  top: 505.67px;
+  left: 951.96px;
+  border-bottom-right-radius: 40px;
+  margin-right: 30px;
+}
+
+.image-8 {
+  width: 145.78px;
+  height: 145.86px;
+  top: 442.85px;
+  left: 1144.22px;
+  border-bottom-right-radius: 40px;
+}
+
+.bg-container-2 {
+  background-color: rgba(240, 255, 255, 1);
+  width: 100vw;
+  height: 150;
+  border-width: 1px;
+  margin-top: 30px;
+}
+
+.paragraph-element {
+  font-family: "Neue Haas Unica";
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 60px;
+  letter-spacing: -1px;
+  text-align: center;
+  color: rgba(17, 178, 168, 1);
+}
+
+.step-item {
+  font-family: Neue Haas Unica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  text-align: left;
+  color: #282c3f;
+}
+
+.paragraph2-element {
+  font-family: "Neue Haas Unica";
+  font-size: 24px;
+  font-weight: 900;
+  text-align: left;
+  color: #212a34;
+}
+
+.paragraph3-element {
+  font-family: "Neue Haas Unica";
+  font-size: 16px;
+  font-weight: 500;
+  text-align: left;
+  color: #555770;
+}
+
+.bg-container3 {
+  height: 50vh;
+  width: 100vw;
+  top: 1444px;
+  background-color: #ffffff;
+  background-size: cover;
+}
+
+.bg-container-4 {
+  height: 70vh;
+  width: 100vw;
+  top: 2000px;
+  background-color: #ffffff;
+  background-size: cover;
+}
+
+.text-content {
+  font-family: "Neue Haas Unica";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-align: center;
+  color: #212a34;
+}
+
+.paragraph4-element {
+  font-family: "Neue Haas Unica";
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 60px;
+  letter-spacing: -1px;
+  text-align: center;
+  color: #11b2a8;
+}
+
+.bg-industries-image-1 {
+  background-image: url("https://s3-alpha-sig.figma.com/img/cc46/8e15/e92fb261e754753ee445943036c2ce91?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Po7JFPNYn7R8j~VUm3aZ37va8Q6vFm1SJzx2EdyHqm1ToTnZ10-CwizEZf5ef-qUu-amwaCcIE3ayHy7W4TWeUumlloU7STCjrcn5hbr5UWS9hIgX-ZWiTflJyODHDNNZWjhxF9TL0kBGV~n5ujuI27U9a~Nxw488EfSPzdFgE~G-m0mHWa4LIlCh0YN3ZaBVrDIUEjkbqSVwzwMlGQTGkSXSzxKQL5ZUJwBMSVI3ACksFcGWQkbJz-jHrfeC8cTEiu2Nhir-CCY7wKtoNotYY6~EDah8dzTAOdKqKH9DTdtJnZI92NrSyrlnviWqHGgU0vEeq7lrU679l~n3ndPMw__");
+  width: 250px;
+  height: 160px;
+  background-size: cover;
+  top: 1628px;
+  left: 150px;
+  border-radius: 20px;
+}
+.bg-industries-image-2 {
+  background-image: url("https://s3-alpha-sig.figma.com/img/c59d/3613/4ee110da1cfbb9d5888f8eaf14b8e37d?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ReQjtf8uy5oxjKwiboK-7q5TfFuSDSNlQt0qdKEYJ21bNi0HAsoQa-THpKpFjp1riwOylHWIrAS0fS1SizXPJQihSDWdO~wr0Mp1MyzBLhZH5AMjXdzoMtUhnB6REN6sOYRhIftCt9HyIov8xbbpN3JOzTgKlgxRJJXayIVynWbeCcIPMLMyrXbpvl5BgowviL7ay1EBA-Hg4g6XWOcOg6XTDRMUMFhFNGcQb0Lo9VNND6sMzNLjMNIvQBJfLNVP59PoVocu-U4bXZ82l3zkKmtrf1Ah5KA0KLvZoYi~cftU2lpTQaR1hF-HsoZH8hwbBpXkynJloOkoGxRV20QlWA__");
+  width: 250px;
+  height: 160px;
+  background-size: cover;
+  top: 1628px;
+  left: 150px;
+  border-radius: 20px;
+}
+.bg-industries-image-3 {
+  background-image: url("https://s3-alpha-sig.figma.com/img/a39c/1bde/b5b236682a17c8ab8a23ca1048a4972c?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=PNHi5rxIv~dnbqbHC78w3nCf1XLSe-3YdBR68a3Q7sv1RWlp-q~WURGbh-ce1ppRTW8sVd~kG5S-kceu5TQ4bHWX9JkWBeCNdY5NikZrj8vOr15ZJuyx9mzN1kQR9plEpAQuY4-WLZDfIp46xyV7o1VQZl5RCW0e5T8i926SpVOMBiVUerDb5be3VRcD2I2yu~UvNauv0p-giRurIUgGFC7eViyExkn523z7ZB2B2KLsb0sJlhEjQwrd1FIXJPJjcJBkWDbVZYbHZ9ZZWuNf1ahuy5DplKXRqmVdWFpWNKgHCwSctGzy3~8jCrUFHp~5hjSx6Az5h9IC2kDiWCmL5Q__");
+  width: 250px;
+  height: 200px;
+  background-size: cover;
+  top: 1628px;
+  left: 150px;
+  border-radius: 20px;
+}
+.bg-industries-image-4 {
+  background-image: url("https://s3-alpha-sig.figma.com/img/ca39/fc7b/5a719b8fdd2ebeaf718edfebc6857271?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=B367R6wq5iqJsKIFYB7Hd2SOhQuTzJ-ov6Yd0~wFjWPV-l99a8-SJOpBvN~kSIM-KaKbYaDq1ilEvuZb52-qRUEOz5P59EDLgstFBgiCv7OISBwc~TyGe-A8~o5Oh4PEnM8lGwR6cjN8kQadK16MtBdJX~cKwZBMxj5FDpNM7ZTrXBVkR66PaMkuExD8ByqmGYeKUtPBlBbQtRl1KdQdmAeP6KdpWNiuWPq17Qbq9EKuvIn99v6joWA5RB~SP7Edt4S3x7TlVw0CfLCO2FTvZsZjjD2ehHFP5RSG~2P0OpfN4G89VJTJR7Yz2PFVXNB5qvxvvUnKhZPQaTXzcdTVXg__");
+  width: 250px;
+  height: 160px;
+  background-size: cover;
+  top: 1628px;
+  left: 150px;
+  border-radius: 20px;
+}
+.bg-industries-image-5 {
+  background-image: url("https://s3-alpha-sig.figma.com/img/b9c9/3f00/9c5381f95b792a01b2cd277779ffee48?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Qb-EYLQQAAG9QIr7nxQAv0-4-cF3i-GfiMy-onjoMo0THvRRz2o-p2fUqVrHe2vqcsJbBKSjR9gKc8V55M-oOpfUItQlPjUpdUUkyBSs0ouALnbVAU-Ji2SkXp0zY4ffbQRGBVooekC~9KXHAJnyN3XO0shaO~pzUnHEDudchnsDsOh846XqLMA7T-qmzPADnzVAeHgiEs9k1c4fX-~MqtgU40dpLic1FRh0q67hagmsen-4USVBtU9JILb11KhOxceMRpHR9INkM1IRbAsF3NKr~M1uBGLsHHZ8NdZ0WEPf~METzVfBEB9x5wRQcCuemjYkutd8DkwnCoAIKBgYGQ__");
+  width: 250px;
+  height: 160px;
+  background-size: cover;
+  top: 1628px;
+  left: 150px;
+  border-radius: 20px;
+}
+.bg-industries-image-6 {
+  background-image: url("https://s3-alpha-sig.figma.com/img/a22d/33e8/3732372d6589217ffb6ca9c64048cd71?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=h7i~cqvlw2oD2TLd2MSn2Pvc9aMVaL0ccBz6YDq-~BchuGZMdesVDt7jU5ieka-Xpku5bEOV5-7glpmpb8Mw-rDT7b2juR9iWcQSlrl1qeJPoDirgFOgWg3BxRYxX1nZF1HIm2w94-1dDMLHXuPqKK9jWwH187HYGP50~0ivJxAo-leJLcDuDCb3Y0I4sJQAsx0IRwA6usCNbrqZ5Uvvy8Ls~hDtDLxU-qy4GIQNigsv3-8iTTPDEnRNGT97CRgiPsKTmL6Nl~DBTo~9Kux7S1JJxR9jjY8A8Xq-fLKOb89~dp1uFfATYaJ6bTKXJtBhYlXZ8Yef7tCsEd6kQCKcyw__");
+  width: 250px;
+  height: 160px;
+  background-size: cover;
+  top: 1628px;
+  left: 150px;
+  border-radius: 20px;
+}
+.industries-text {
+  font-family: "Neue Haas Unica";
+  font-size: 24px;
+  font-weight: 950;
+  line-height: 32px;
+  text-align: end;
+  color: #ffffff;
+  padding-top: 100px;
+}
+.chat-bg-container {
+  background-color: #e0e0e0;
+  width: 200px;
+  height: 526.28px;
+  border-radius: 40px;
+  margin-top: 100px;
+}
+
+.chat-container {
+  background-color: #353843;
+  width: 282.25px;
+  height: 174.45px;
+  border-radius: 8.23px;
+  border: 5px;
+  padding: 10px;
+}
+
+.chat-heading {
+  color: #ffffff;
+  font-family: "Lexend";
+  font-size: 11.52px;
+  font-weight: 500;
+  line-height: 13px;
+  text-align: left;
+}
+
+.chat-text {
+  color: #9a9fb1;
+  font-family: "Lexend";
+  font-size: 9.87px;
+  font-weight: 400;
+  line-height: 13px;
+  text-align: left;
+}
+
+.employer-container {
+  width: 433px;
+  height: 560px;
+  margin-top: 100px;
+}
+
+.employer-text {
+  color: #282c3f;
+  font-family: "Neue Haas Unica";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-align: left;
+}
+
+.employer-heading {
+  font-family: "Neue Haas Unica";
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 60px;
+  letter-spacing: -1px;
+  text-align: left;
+}
+
+.list-items {
+  font-family: "Neue Haas Unica";
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+}
+
+.text-bold {
+  font-weight: bold;
+}
